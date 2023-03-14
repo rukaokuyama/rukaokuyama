@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Luka</h1>
+<h1 align="center">Hi my name is Luka</h1>
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
 - 📫 How to reach me **rukaokuyama@gmail.com**
